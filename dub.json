@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"amon-shi"
+	],
+	"copyright": "Copyright © 2024, amon-shi",
+	"description": "Parser combinators.",
+	"license": "MIT",
+	"targetType": "library",
+	"name": "disparse"
+}

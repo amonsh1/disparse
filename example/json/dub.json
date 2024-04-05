@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"amon-shi"
+	],
+	"dependencies": {
+		"disparse": { "path": "../.." }
+	},
+	"copyright": "Copyright © 2024, amon-shi",
+	"description": "Parser combinators.",
+	"license": "MIT",
+	"targetType": "executable",
+	"name": "example"
+}
